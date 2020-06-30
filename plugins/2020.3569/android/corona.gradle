@@ -1,0 +1,7 @@
+dependencies {
+	implementation("com.appodeal.ads.sdk.networks:adcolony:2.6.4.4")
+    //  {
+    //     exclude group: "com.adcolony", module: "sdk"
+    // }
+    // implementation("com.adcolony:sdk:4.1.2")
+}
