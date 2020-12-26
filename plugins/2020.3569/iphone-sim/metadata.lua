@@ -5,7 +5,7 @@ local metadata =
 		format = 'staticLibrary',
 		staticLibs = { 'APDAdColonyAdapter', },
 		frameworks = { 'AdColony', },
-		frameworksOptional = { 'EventKit', 'WatchConnectivity', 'Social', },
+		frameworksOptional = {},
 	},
 }
 
